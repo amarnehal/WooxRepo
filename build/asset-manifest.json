@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fb5cea65.css",
+    "main.js": "/static/js/main.a016189f.js",
+    "static/media/zetong.jpg": "/static/media/zetong.3e25bb2e5585032f76ca.jpg",
+    "static/media/Nature.jpg": "/static/media/Nature.9d1e876f9509b805ed37.jpg",
+    "static/media/train.jpg": "/static/media/train.ab858597890c6760d46f.jpg",
+    "static/media/Island.jpg": "/static/media/Island.3bf910c2b8a7872b9e58.jpg",
+    "index.html": "/index.html",
+    "main.fb5cea65.css.map": "/static/css/main.fb5cea65.css.map",
+    "main.a016189f.js.map": "/static/js/main.a016189f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb5cea65.css",
+    "static/js/main.a016189f.js"
+  ]
+}
